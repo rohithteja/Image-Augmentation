@@ -1,4 +1,4 @@
-# Image Augumentation
+# Image Augmentation
 
 Image augumentation using birds dataset:
 1. Testing with deep neural network architecture with and without image augumentation
